@@ -14,7 +14,7 @@
 
 <p align="center">
   Senior Frontend разработчик. Создаю быстрые и удобные приложения
-  на <strong>Angular</strong>, <strong>React</strong>, <strong>TypeScript</strong> и <strong>Next.js</strong>.
+  на <strong>Angular</strong>, <strong>Vue</strong>, <strong>React</strong>, <strong>TypeScript</strong> и <strong>Next.js</strong>.
 </p>
 
 ---
@@ -23,8 +23,7 @@
 
 - Люблю превращать сложные пользовательские сценарии в понятные интерфейсы.
 - Уверенно работаю с архитектурой frontend-приложений, дизайн-системами и производительностью.
-- Пишу на JavaScript/TypeScript и использую Node.js там, где frontend-задачам нужен крепкий backend-инструмент.
-- Интересуюсь инженерной культурой, DX, автоматизацией и качеством кода.
+- Пишу на JavaScript / TypeScript / React / Angular / Vue
 
 ### Технологии
 
@@ -46,20 +45,20 @@ const profile = {
 ### Избранные проекты
 
 <div align="center">
-  <a href="https://github.com/comp-master-byte/JWT-authorization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=JWT-authorization&theme=tokyonight&hide_border=true" alt="JWT authorization repository" />
-  </a>
-  <a href="https://github.com/comp-master-byte/webpack-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=webpack-config&theme=tokyonight&hide_border=true" alt="Webpack config repository" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/comp-master-byte/ANGULAR-star-wars">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=ANGULAR-star-wars&theme=tokyonight&hide_border=true" alt="Angular Star Wars repository" />
   </a>
   <a href="https://github.com/comp-master-byte/VUE-incidents">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=VUE-incidents&theme=tokyonight&hide_border=true" alt="Vue incidents repository" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/comp-master-byte/JWT-authorization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=JWT-authorization&theme=tokyonight&hide_border=true" alt="JWT authorization repository" />
+  </a>
+  <a href="https://github.com/comp-master-byte/webpack-config">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=comp-master-byte&repo=webpack-config&theme=tokyonight&hide_border=true" alt="Webpack config repository" />
   </a>
 </div>
 
